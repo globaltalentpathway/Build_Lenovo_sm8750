@@ -27,7 +27,7 @@ on:
       enable_feature_a:
         description: "开启BBG基带守护"
         required: false
-        default: true
+        default: false
         type: boolean
 
       enable_feature_d:
